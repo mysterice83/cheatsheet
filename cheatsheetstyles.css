@@ -1,0 +1,34 @@
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    color:orangered;
+}
+
+#structure {
+    font-family:monospace;
+    color:blueviolet;
+}
+
+#selectors {
+    font-family: monospace;
+    color:blueviolet;
+}
+
+th {
+    border-style: dotted;
+}
+
+th {
+    color:green;
+    border-color:blueviolet
+}
+
+td {
+    border-style:groove;
+    color:rgb(29, 8, 65);
+    border-color:green
+}
+
+body {
+    background-color: goldenrod;
+}
